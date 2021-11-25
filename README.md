@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Darpan](https://twitter.com/kakadiadarpan) 👋
 
+**About Me:**
+- I work as a Staff Engineer at [Scalable](https://scalable.capital)
+- previously: open source maintainer (contract) at [Gatsby](https://gatsbyjs.com/), ui engineer at [Cleartrip](https://cleartrip.com), developer at [Glider](https://glider.ai)
+- I love TypeScript, React, Photography and Coffee.
 <!--
 **kakadiadarpan/kakadiadarpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadiadarpan&show_icons=true&count_private=true)
