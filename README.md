@@ -1,7 +1,7 @@
 ### Hi there, I'm [Darpan](https://twitter.com/kakadiadarpan) 👋
 
 **About Me:**
-- I'm enjoying funemployment
+- software engineer at [vercel](https://vercel.com)
 - previously: staff engineer at [scalable](https://scalable.capital), open source maintainer (contract) at [Gatsby](https://gatsbyjs.com/), ui engineer at [Cleartrip](https://cleartrip.com), developer at [Glider](https://glider.ai)
 - I love TypeScript, React, Photography and Coffee.
 <!--
